@@ -7,6 +7,7 @@ Jedan Vercel projekat, posebna stranica za svakog člana tima.
 | Dušan Cocić | `/dusan` |
 | Aleksandar Trajković | `/aleksandar` |
 | Dragan Vasiljević | `/dragan` |
+| Julijan Graf Drakul | `/julijan` |
 
 ## Struktura
 
