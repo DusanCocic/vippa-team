@@ -8,6 +8,7 @@ Jedan Vercel projekat, posebna stranica za svakog člana tima.
 | Aleksandar Trajković | `/aleksandar` |
 | Dragan Vasiljević | `/dragan` |
 | Julijan Graf Drakul | `/julijan` |
+| Siniša Vuković | `/sinisa` |
 
 ## Struktura
 
