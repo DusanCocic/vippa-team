@@ -5,6 +5,7 @@ Jedan Vercel projekat, posebna stranica za svakog člana tima.
 | Osoba | Link |
 |---|---|
 | Dušan Cocić | `/dusan` |
+| Aleksandar Trajković | `/aleksandar` |
 
 ## Struktura
 
