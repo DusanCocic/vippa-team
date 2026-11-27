@@ -2,16 +2,13 @@ BEGIN:VCARD
 VERSION:3.0
 N:Cocić;Dušan;;;
 FN:Dušan Cocić
-ORG:DCO Group
-TITLE:Founder & CEO
+ORG:VipPa Group
+TITLE:External Associate
 TEL;TYPE=CELL,VOICE:+38766989893
 TEL;TYPE=CELL,VOICE:+447732451739
 EMAIL;TYPE=INTERNET,WORK:dusan@vippa-group.com
-EMAIL;TYPE=INTERNET:dcogroup.info@gmail.com
-URL:https://dco-group.vercel.app
 URL:https://vippa-group.com
 X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/dusan-cocic-822b373b3
-NOTE:Founder & CEO – DCO Group\nExternal Associate – VipPa Group
 PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAYEBQYFBAYGBQYH
  BwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2w
  BDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgo
